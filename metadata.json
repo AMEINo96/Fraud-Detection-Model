@@ -1,0 +1,6 @@
+{
+  "name": "FraudGuard AI",
+  "description": "An interactive dashboard for detecting fraudulent credit card transactions using machine learning principles, including data preprocessing, imbalance handling, and performance evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
